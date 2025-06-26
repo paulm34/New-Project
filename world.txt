@@ -1,2 +1,3 @@
 Registrace uživatele
 Registrace admin uživatele
+New feature
